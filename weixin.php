@@ -47,7 +47,7 @@ if ($handle) {
           <![CDATA[<?= $touser ?>]]>
         </ToUserName>
         <FromUserName>
-          <![CDATA[填公众号原始ID]]>
+          <![CDATA[gh_630888185821]]>
         </FromUserName>
         <CreateTime><?php echo time(); ?></CreateTime>
         <MsgType>
@@ -129,7 +129,7 @@ if ($handle) {
     <![CDATA[<?= $touser ?>]]>
   </ToUserName>
   <FromUserName>
-    <![CDATA[填公众号原始ID]]>
+    <![CDATA[gh_630888185821]]>
   </FromUserName>
   <CreateTime><?php echo time(); ?></CreateTime>
   <MsgType>
